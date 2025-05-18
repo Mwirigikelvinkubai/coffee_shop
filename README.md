@@ -4,9 +4,9 @@
 
 This project models a Coffee Shop domain using Python and object-oriented programming.  
 It includes three main entities:
-- **Customer*#
-- **Coffee**
-- **Order**
+- Customer
+- Coffee
+- Order
 
 The relationships:
 - A Customer can place many Orders.
@@ -20,6 +20,5 @@ The code implements:
 - A class method to find the top customer for a coffee
 - Exception handling for invalid inputs
 
----
 
 
